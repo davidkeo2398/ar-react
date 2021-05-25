@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import 'aframe'
 import './App.css';
 
 function App() {
