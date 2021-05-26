@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'aframe'
 import 'aframe-react'
 import 'aframe-environment-component'
+import 'aframe-particle-system-component'
 import {HashRouter} from 'react-router-dom'
 
 ReactDOM.render(
